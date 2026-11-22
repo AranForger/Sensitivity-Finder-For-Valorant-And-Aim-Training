@@ -1,0 +1,6 @@
+﻿/build/
+/Release/
+/*.zip
+settings.ini
+telemetry/
+history/
