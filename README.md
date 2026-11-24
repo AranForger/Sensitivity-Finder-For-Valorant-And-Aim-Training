@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35323604/README.md)
 # Valorant Sensitivity Finder
 
 Ứng dụng luyện aim và tìm độ nhạy chuột cho VALORANT trên Windows.
